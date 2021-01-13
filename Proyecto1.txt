@@ -1,9 +1,9 @@
 <html>
 
-	<header>  Complemento del proyecto <header>
-	<body> Ramificacion del proyecto <body>
+	<header>  Complemento del proyecto </header>
+	<body> Ramificacion del proyecto </body>
 	
-		<d1> Detalles del manejo del proyecto <d1>
+		<d1> Detalles del manejo del proyecto </d1>
 		
-			<p>	Parrafo del proyecto <p>
-<html>
+			<p>	Parrafo del proyecto </p>
+</html>
